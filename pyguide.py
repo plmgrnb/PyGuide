@@ -194,5 +194,5 @@ st.markdown('''
 st.divider()
 st.markdown(''':grey[
             This guide was written by Oscar Palmgren.
-            © Oscar Palmgren 2024. All rights reserved.
+            Copyright © 2024 Oscar Palmgren
             ]''')
