@@ -39,8 +39,7 @@ st.warning('''
 st.subheader("Step 2: Execute the installer")
 st.markdown('''
             Navigate to your downloads folder.
-            Locate the installer and run it.
-            The installation window pops up.
+            Locate the installer and run it, the installation window pops up.
             ''')
 
 st.subheader("Step 3: Set installation parameters")
