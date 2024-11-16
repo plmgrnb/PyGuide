@@ -176,7 +176,7 @@ st.success('''
            **Pro tip: Install third-party extensions!**
            
            There are many third-party extensions which expand the functionality of Python.
-           You can easily install any of these by calling the "*pip install [...]*" command within Windows PowerShell.
+           You can easily install any of these by running the "*pip install [...]*" command within Windows PowerShell.
            ''', icon = '✅')
 st.markdown('''
             Note that this process will not install any shortcut to Jupyter Notebook and/or Jupyter Lab on your PC. 
