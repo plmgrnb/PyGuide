@@ -52,7 +52,9 @@ st.markdown('''
 st.warning('''
            **Have you had Python installed previously?**
            
-           If you've previously had Python istalled on your PC, it might already have been added to the system path. To avoid complications from having redundant installations written to the path, do this:
+           If you've previously had Python istalled on your PC, it might already have been added to the system path. To avoid complications from having redundant installations written to the path, follow the steps below.
+           
+           > **Note: You're wandering off the beaten path, do this on your own risk!**
 
            1. Navigate to *Settings*.
            2. In the search bar, write "*Edit the system environment variables*" and execute the search. The *System Properties* window pops up.
