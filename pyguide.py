@@ -3,7 +3,7 @@
 Created on Fri Nov 15 12:49:29 2024
 
 Author: Oscar Palmgren
-© Oscar Palmgren 2024. All rights reserved.
+Copyright © 2024 Oscar Palmgren
 """
 
 import streamlit as st
